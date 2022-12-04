@@ -1,0 +1,25 @@
+{
+  "name": "tbabot",
+  "version": "1.0.0",
+  "description": "The Blue Alliance Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spartiates-3544/TBABot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spartiates-3544/TBABot/issues"
+  },
+  "homepage": "https://github.com/Spartiates-3544/TBABot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.29.0"
+  }
+}
